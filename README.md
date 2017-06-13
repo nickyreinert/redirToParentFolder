@@ -26,6 +26,6 @@ There are two rules, the first one redirects traffic from /foobar to the root, t
  
  # example
  
-  www.shop.com/de1/foobar -> www.shop.com/index.php?search=foobar
+  www.pictero.com/de1/foobar -> www.pictero.com/index.php?search=foobar
   
-  www.shop.com/de1/foobar.html -> www.shop.com/index.php?search=foobar
+  www.pictero.com/de1/foobar.html -> www.pictero.com/index.php?search=foobar
